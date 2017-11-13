@@ -1,6 +1,8 @@
 # ARM-Exploitation
-# Articles covering the topic by Billy Ellis
-http://billyellis.net/
+# Articles covering the topic
+
+Billy Ellis -> http://billyellis.net/
+Azeria Labs -> https://azeria-labs.com/writing-arm-assembly-part-1/
 
 # Articles that cover complex topics that involve jailbreaking
 
