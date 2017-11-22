@@ -3,6 +3,11 @@
 
 SSH over USB -> http://www.shadowinfosec.io/2017/03/iphone-ssh-over-usb-on-linux.html
 
+# Useful Github Repositories
+Billy Ellis -> https://github.com/Billy-Ellis/Exploit-Challenges
+Azeria Labs -> https://github.com/azeria-labs/ARM-assembly-examples
+Liveoverflow -> https://github.com/LiveOverflow/liveoverflow_youtube
+
 # Articles covering the topic
 
 Billy Ellis -> http://billyellis.net/
