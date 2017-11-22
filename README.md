@@ -5,7 +5,9 @@ SSH over USB -> http://www.shadowinfosec.io/2017/03/iphone-ssh-over-usb-on-linux
 
 # Useful Github Repositories
 Billy Ellis -> https://github.com/Billy-Ellis/Exploit-Challenges
+
 Azeria Labs -> https://github.com/azeria-labs/ARM-assembly-examples
+
 Liveoverflow -> https://github.com/LiveOverflow/liveoverflow_youtube
 
 # Articles covering the topic
@@ -13,6 +15,8 @@ Liveoverflow -> https://github.com/LiveOverflow/liveoverflow_youtube
 Billy Ellis -> http://billyellis.net/
 
 Azeria Labs -> https://azeria-labs.com/writing-arm-assembly-part-1/
+
+Thinking Geek -> http://thinkingeek.com/2013/01/09/arm-assembler-raspberry-pi-chapter-1/
 
 # Articles that cover complex topics that involve jailbreaking
 
