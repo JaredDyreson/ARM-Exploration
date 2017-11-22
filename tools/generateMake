@@ -2,6 +2,11 @@
 
 # this script will autogenerate a Makefile for easy compilation of assembler programs
 
+if [ -z $1 ]; then
+  echo "Usage generateMake<name of program>"
+  exit
+fi
+
 if [ -f Makefile ]; then
   echo "Cleaning directory"
   make clean
