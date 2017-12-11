@@ -30,7 +30,17 @@ Dismantling iOS Parts
 
 Jonathan Levin -> http://newosxbook.com/index.php?page=notes
 
+Finding offsets
+
+AngelxWind -> https://angelxwind.net/?page/trident-address-tutorial
+
+Uroboro -> https://gist.github.com/uroboro/5b2b2b2aa1793132c4e91826ce844957
+
 # Youtube Playlists
 Billy Ellis -> https://www.youtube.com/playlist?list=PL-slHQxWd9GkhKu8oXXrIHFI_EoVHQqSA
 
 Liveoverflow -> https://www.youtube.com/watch?v=iyAyN3GFM7A&list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN
+
+# Reddit threads
+
+v0rtex offset adventure -> https://www.reddit.com/r/jailbreak/comments/7irp1q/discussion_help_us_find_v0rtex_offsets/
