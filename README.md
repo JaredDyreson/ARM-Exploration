@@ -10,6 +10,8 @@ Azeria Labs -> https://github.com/azeria-labs/ARM-assembly-examples
 
 Liveoverflow -> https://github.com/LiveOverflow/liveoverflow_youtube
 
+Offset Finder -> https://github.com/jndok/OF32
+
 # Articles covering the topic
 
 Billy Ellis -> http://billyellis.net/
