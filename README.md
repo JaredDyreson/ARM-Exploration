@@ -18,11 +18,15 @@ Azeria Labs -> https://azeria-labs.com/writing-arm-assembly-part-1/
 
 Thinking Geek -> http://thinkingeek.com/2013/01/09/arm-assembler-raspberry-pi-chapter-1/
 
-# Articles that cover complex topics that involve jailbreaking
+# Articles covering complex topics that involve jailbreaking
 
 Dual booting
 
 https://nyansatan.github.io/dualboot/ios4dualboot
+
+Dismantling iOS Parts
+
+Jonathan Levin -> http://newosxbook.com/index.php?page=notes
 
 # Youtube Playlists
 Billy Ellis -> https://www.youtube.com/playlist?list=PL-slHQxWd9GkhKu8oXXrIHFI_EoVHQqSA
