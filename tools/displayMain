@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+if [[ -z $1 || ! -f $1 ]]; then
+  echo "Usage: displayMain [path to file]"
+fi
+
+objdump -M intel -d "$1" | sed -n '/\<main\>/,/^$/p' 
