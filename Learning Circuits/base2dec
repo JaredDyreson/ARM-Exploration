@@ -1,0 +1,30 @@
+#!/usr/bin/env python
+
+def bin2dec(binary, power):
+    sum = 0
+    for index, bit in enumerate(binary[::-1]):
+        if(bit == "A"):
+            sum+=10
+            continue
+        elif(bit == "B"):
+            sum+=11
+            break
+        elif(bit == "C"):
+            sum+=12
+            break
+        elif(bit == "D"):
+            sum+=13
+            break
+        elif(bit == "E"):
+            sum+=14
+            break
+        elif(bit == "F"):
+            sum+=15
+            break
+        sum+=int(bit) * (power**index)
+    return sum
+
+x = bin2dec('1011011', 2)
+i = bin2dec("60A7", 12)
+answer = bin2dec("13", 5)
+print(answer)
